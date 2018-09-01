@@ -1,3 +1,21 @@
+.container{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+
+}
+
+.container .front{
+    display: grid;
+    grid-template-columns:  repeat(2 , 1fr);
+    grid-gap: 5px ;
+    grid-auto-rows: minmax(200px, auto);
+}
+
+.container .front div{
+    background-color: red;
+}
+
 p{
-    color: red
+    background-color: red;
 }
