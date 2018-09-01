@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Who am i 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>Hi ! This is Me </p>
+Sahar AbdElaziz Computer Science Graduated , Back-End Developer, Software Engineer 
+I love Coding! Making amazing things from almost Nothing!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I code in serveral languages , my main languages and Frameworks are 
+<p>-> for Back-End ASP.NET MVC</p>
+<p>-> for Front-End Angular2+</p>
+<p>And i adore Javascript and my Sweety Python</p>
