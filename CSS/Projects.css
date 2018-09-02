@@ -1,6 +1,6 @@
 .container{
     margin: auto;
-    width: 90%;
+    width: 100%;
     text-align: center;
 
 }
@@ -69,3 +69,25 @@ a:visited {
     font-weight: bold;
     
 }
+
+body{
+    width: 100% !important;
+}
+.container{
+    width: 100% !important;
+}
+.wrapper{
+    width: 100% ;
+    max-width: 90%;
+
+}
+.page-content{
+    margin: auto;
+}
+
+.site-header{
+    max-width: 100%;
+    margin:0 10% 0 10%;
+    
+}
+
