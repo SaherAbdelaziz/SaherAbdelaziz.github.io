@@ -10,7 +10,7 @@ permalink: /about/
 Sahar AbdElaziz Computer Science Graduated , Back-End Developer, Software Engineer 
 I love Coding! Making amazing things from almost Nothing!
 
-I code in serveral languages , my main languages and Frameworks are 
+I code in several  languages , my main languages and Frameworks are 
 <p>-> for Back-End ASP.NET MVC</p>
 <p>-> for Front-End Angular2+</p>
 <p>And i adore Javascript and my Sweety Python</p>
